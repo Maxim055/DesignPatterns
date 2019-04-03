@@ -1,0 +1,10 @@
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\bin\Debug\ChessViewConverter.exe.config
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\bin\Debug\ChessViewConverter.exe
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\bin\Debug\ChessViewConverter.pdb
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.Form1.resources
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.Properties.Resources.resources
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.exe
+C:\Users\maxim\source\repos\ChessViewConverter\ChessViewConverter\obj\Debug\ChessViewConverter.pdb
