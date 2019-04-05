@@ -1,0 +1,10 @@
+C:\Users\maxim.karapetyan\source\repos\WordConverter\bin\Debug\WordConverter.exe.config
+C:\Users\maxim.karapetyan\source\repos\WordConverter\bin\Debug\WordConverter.exe
+C:\Users\maxim.karapetyan\source\repos\WordConverter\bin\Debug\WordConverter.pdb
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.csprojAssemblyReference.cache
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.Form1.resources
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.Properties.Resources.resources
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.csproj.GenerateResource.cache
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.csproj.CoreCompileInputs.cache
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.exe
+C:\Users\maxim.karapetyan\source\repos\WordConverter\obj\Debug\WordConverter.pdb
