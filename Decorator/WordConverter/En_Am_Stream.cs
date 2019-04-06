@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WordConverter
 {
@@ -63,6 +59,11 @@ namespace WordConverter
                     readedBytes++;
                 }
             }
+            if (this.parentStream != null)
+            {
+                this.parentStream.Read(this.buff, (int)this.position - count, count);
+                this.position -= count;
+            }
             return readedBytes;
         }
 
@@ -111,8 +112,11 @@ namespace WordConverter
                     this.position++;
                 }
             }
-            this.parentStream.Write(this.buff, (int)this.position - count, count);
-            this.position -= count;
+            if (this.parentStream != null)
+            {
+                this.parentStream.Write(this.buff, (int)this.position - count, count);
+                this.position -= count;
+            }
         }
         #endregion
     }
