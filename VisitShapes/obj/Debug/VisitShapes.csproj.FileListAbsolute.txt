@@ -1,0 +1,10 @@
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\bin\Debug\VisitShapes.exe.config
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\bin\Debug\VisitShapes.exe
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\bin\Debug\VisitShapes.pdb
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.csprojAssemblyReference.cache
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.Form1.resources
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.Properties.Resources.resources
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.csproj.GenerateResource.cache
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.csproj.CoreCompileInputs.cache
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.exe
+C:\Users\maxim.karapetyan\source\repos\VisitShapes\obj\Debug\VisitShapes.pdb
